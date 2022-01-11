@@ -1,4 +1,3 @@
-- **HTTP Request 종류와 HTTP Response 종류에 대해 학습하고 정리한다.**
 # HTTP
 
 ## HTTP vs HTTPS
